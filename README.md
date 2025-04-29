@@ -9,11 +9,12 @@ Here you'll find real-world projects where I explore, model, and solve problems 
 
 | Project | Description | Link |
 |:---|:---|:---|
+| 🐐 Goat Crash (Pygame) | A fun arcade-style game where you dodge falling goats at increasing speeds! Built with Python and Pygame.  | [View Project](https://github.com/heather-253/goat_cargame) |
+| 📈 Stock Price Prediction | Time-series forecasting and machine learning on financial datasets. | [View Project](https://github.com/heather-253/Stock-Prediction-Projects) |
 | 🛳️ Titanic Survival Prediction | Predicting passenger survival using Random Forest and Decision Trees. | [View Project](https://github.com/heather-253/titanic-survival-prediction) |
+| 🏢 IBM Capstone Project | End-to-end machine learning project solving a SpaceX business problem. | [View Project](https://github.com/heather-253/spacex-landing-prediction) |
 | 🚖 NYC Taxi Fare Prediction | Predicting taxi fares based on trip data and feature engineering. | [View Project](https://github.com/heather-253/taxi-fare-prediction) |
 | 🏡 House Prices Prediction | Predicting house sale prices using regression models and EDA. | [View Project](https://github.com/heather-253/house-prices-prediction) |
-| 📈 Stock Price Prediction | Time-series forecasting and machine learning on financial datasets. | [View Project](https://github.com/heather-253/Stock-Prediction-Projects) |
-| 🏢 IBM Capstone Project | End-to-end machine learning project solving a SpaceX business problem. | [View Project](https://github.com/heather-253/spacex-landing-prediction) |
 
 ---
 
